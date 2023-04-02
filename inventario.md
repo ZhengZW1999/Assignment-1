@@ -7,5 +7,5 @@ scheda madre
 
 Elettronica Padovana
 
-componenti
+##componenti
 ##periferiche
