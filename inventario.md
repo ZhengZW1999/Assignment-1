@@ -6,3 +6,5 @@ scheda madre
 
 
 Elettronica Padovana
+
+componenti
